@@ -4,16 +4,6 @@ lenientjsonjs
 A small library for JS containing a GSON lenient-compatible JSON parser and stringifier.
 I personally needed this for Minecraft JSON parsing in other languages.
 
-Prerequisites
-=============
-
-[XRegExp](xregexp.com) is required, as the parser requires it for sticky RegExp support.
-
-Usage
-=============
-
-Plop in GSON.js or GSON.min.js and let the magic carry itself.
-
 Reference
 =============
 

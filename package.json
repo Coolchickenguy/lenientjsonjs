@@ -1,0 +1,29 @@
+{
+  "name": "lenientjsonjs",
+  "version": "1.0.0",
+  "description": "A lenient JSON parser for JS (GSON-compatible)",
+  "main": "gson.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coolchickenguy/lenientjsonjs.git"
+  },
+  "keywords": [
+    "GSON",
+    "parser"
+  ],
+  "author": "Paril, npm package mods by Coolchickenguy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coolchickenguy/lenientjsonjs/issues"
+  },
+  "homepage": "https://github.com/Coolchickenguy/lenientjsonjs#readme",
+  "dependencies": {
+    "xregexp": "^5.1.1"
+  }
+}
